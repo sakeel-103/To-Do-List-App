@@ -1,2 +1,3 @@
 # To-Do-List-App
-To-Do List by using HTML, CSS and JavaScript
+Simple To-Do List app by using HTML, CSS and JavaScript
+
